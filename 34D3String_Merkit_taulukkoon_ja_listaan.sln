@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33214.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "34D3String_Merkit_taulukkoon_ja_listaan", "34D3String_Merkit_taulukkoon_ja_listaan\34D3String_Merkit_taulukkoon_ja_listaan.csproj", "{24F315A0-F7DF-45F6-86E5-F0C33F821D19}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{24F315A0-F7DF-45F6-86E5-F0C33F821D19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24F315A0-F7DF-45F6-86E5-F0C33F821D19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24F315A0-F7DF-45F6-86E5-F0C33F821D19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24F315A0-F7DF-45F6-86E5-F0C33F821D19}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {11761130-B676-4AA7-B346-F23559AE3BD2}
+	EndGlobalSection
+EndGlobal
